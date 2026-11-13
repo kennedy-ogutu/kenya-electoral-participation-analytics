@@ -1,0 +1,11 @@
+check,actual,expected,status
+Total election-county records,188.0,188,PASS
+General-election comparison counties,45.0,45,PASS
+August–October 2017 comparable counties,45.0,45,PASS
+Counties with lower participation in 2022 than 2013,45.0,45,PASS
+Counties with registration growth exceeding valid-vote growth,45.0,45,PASS
+Counties with increased valid votes,42.0,42,PASS
+Counties with decreased valid votes,3.0,3,PASS
+Counties with declining August–October turnout,45.0,45,PASS
+October 2017 excluded from general-election dataset,0.0,0,PASS
+Aggregate registration growth exceeds valid-vote growth,53.36,> 15.82,PASS

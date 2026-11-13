@@ -1,0 +1,5 @@
+election_id,county_records_expected,county_records_official,official_source,reconciliation_level
+2013_GENERAL,47,47.0,IEBC 2013 General Election Data,County
+2017_AUG_GENERAL,47,47.0,IEBC Data Report of 2017 Elections,County
+2017_OCT_FRESH,47,47.0,IEBC Data Report of 2017 Elections,County
+2022_GENERAL,47,,IEBC 2022 Post Election Evaluation,National only

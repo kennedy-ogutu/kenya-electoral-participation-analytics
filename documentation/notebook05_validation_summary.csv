@@ -1,0 +1,10 @@
+check,actual,expected,status
+Comparable general-election counties,45,45,PASS
+Counties with declining 2013–2022 participation,45,45,PASS
+Counties with registration growth exceeding vote growth,45,45,PASS
+Counties with increased absolute valid votes,42,42,PASS
+Counties with decreased absolute valid votes,3,3,PASS
+Comparable August–October 2017 counties,45,45,PASS
+Counties with declining August–October turnout,45,45,PASS
+Counties classified by turnout decline,45,45,PASS
+Large or severe decline counties,25,25,PASS

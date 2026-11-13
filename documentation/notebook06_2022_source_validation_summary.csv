@@ -1,0 +1,5 @@
+check,actual,expected,status
+Matched counties,47,47,PASS
+Registration matches,47,47,PASS
+Valid-vote matches,47,47,PASS
+Candidate-sum exceptions,2,2,PASS

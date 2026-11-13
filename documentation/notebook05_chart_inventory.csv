@@ -1,0 +1,6 @@
+chart_id,chart_title,filename,relative_path,file_size_kb,status
+01,Chart 01 — General-election participation,01_general_election_valid_vote_participation.png,figures/01_general_election_valid_vote_participation.png,262.7,VERIFIED
+02,Chart 02 — County participation declines,02_county_participation_declines_2013_2022.png,figures/02_county_participation_declines_2013_2022.png,362.1,VERIFIED
+03,Chart 03 — Registration vs valid-vote growth,03_registration_vs_valid_vote_growth_2013_2022.png,figures/03_registration_vs_valid_vote_growth_2013_2022.png,439.1,VERIFIED
+04,Chart 04 — August–October 2017 turnout,04_august_october_2017_county_turnout_comparison.png,figures/04_august_october_2017_county_turnout_comparison.png,364.1,VERIFIED
+05,Chart 05 — Turnout decline distribution,05_august_october_2017_turnout_decline_distribution.png,figures/05_august_october_2017_turnout_decline_distribution.png,310.6,VERIFIED

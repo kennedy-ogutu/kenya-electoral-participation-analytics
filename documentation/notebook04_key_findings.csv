@@ -1,0 +1,11 @@
+finding,value,unit
+Comparable counties,45.0,counties
+Counties with declining valid-vote participation,45.0,counties
+"Mean county participation decline, 2013-2022",19.36,percentage points
+"Aggregate registration growth, 2013-2022",53.36,percent
+"Aggregate valid-vote growth, 2013-2022",15.82,percent
+Counties with increased absolute valid votes,42.0,counties
+Counties with decreased absolute valid votes,3.0,counties
+Counties with declining August-October 2017 turnout,45.0,counties
+Pearson correlation: registration growth vs participation change,0.297,correlation coefficient
+Spearman correlation: registration growth vs participation change,0.319,correlation coefficient

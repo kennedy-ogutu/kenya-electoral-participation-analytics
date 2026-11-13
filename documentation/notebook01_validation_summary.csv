@@ -1,0 +1,8 @@
+check,expected,actual,status
+Total rows,188,188,PASS
+Unique counties,47,47,PASS
+Duplicate Election-County records,0,0,PASS
+Registered voters <= 0,0,0,PASS
+Valid votes < 0,0,0,PASS
+Turnout outside 0-100,0,0,PASS
+Valid votes > registered voters,0,0,PASS

@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+
+# Original source PDFs are retained locally.
+# Excluded from GitHub pending redistribution review.
+data/raw/**/*.pdf
+data/Raw/**/*.pdf
+
+# Publication-preparation backups
+*.pre_publication.bak
+
+# Exclude original electoral source PDFs
+/data/raw/**/*.pdf
+
+# Keep original source files local
+/data/raw/
