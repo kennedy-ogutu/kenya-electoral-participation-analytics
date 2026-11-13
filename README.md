@@ -36,12 +36,9 @@ It is not equivalent to ballots-cast turnout.
 ## Project Structure
 
 ```text
-Kenya Electoral Participation Analytics Project/
+kenya-electoral-participation-analytics/
 ├── data/
-│   ├── Raw/
-│   │   ├── elections/
-│   │   └── reference/
-│   ├── Interim/
+│   ├── interim/
 │   └── processed/
 ├── documentation/
 ├── notebooks/
@@ -53,9 +50,19 @@ Kenya Electoral Participation Analytics Project/
 │   └── 06_final_project_synthesis_source_verification.ipynb
 ├── reports/
 │   ├── figures/
-│   └── kenya_electoral_participation_portfolio_report.md
-└── README.md
+│   ├── kenya_electoral_participation_portfolio_report.md
+│   └── notebook05_findings_report.md
+├── PROJECT_BRIEF.pdf
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
+
+**Source availability:** The original `data/raw/` directory
+is retained locally and excluded from GitHub. The repository
+includes intermediate datasets, processed data, reconciliation
+outputs and validation documentation.
+
 
 ## Analysis Workflow
 
